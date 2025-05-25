@@ -1,3 +1,6 @@
+🚀 Live Demo
+Experience Custy in action: https://custy-one.vercel.app/
+
 Welcome Page
 The landing page welcomes users with a clean, modern interface that immediately showcases the app's purpose and value proposition.
 (https://github.com/user-attachments/assets/ccdb53fb-2c23-4814-9dbe-22f2117f0a8f)
@@ -12,8 +15,7 @@ Simple and secure user registration process with form validation and error handl
 (https://github.com/user-attachments/assets/586fd741-ed4e-4dba-8ad9-5b9696254e7f)
 
 
-🚀 Live Demo
-Experience Custy in action: https://custy-one.vercel.app/
+
 🛠️ Tech Stack
 
 Frontend: React.js / Typescript

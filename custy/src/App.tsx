@@ -18,7 +18,7 @@ const App: React.FC = () => (
           <Route path="/loginpage" element={<Login />} />
           <Route path="/registerpage" element={<Register />} />
           <Route path="/meetingpage" element={<MeetingRoom />} />
-          <Route path="/summarize" element={<Summarize />} />
+          <Route path="/summarizer" element={<Summarize />} />
         </Routes>
       </BrowserRouter>
   </QueryClientProvider>

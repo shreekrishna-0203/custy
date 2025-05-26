@@ -1,9 +1,7 @@
 🚀 Live Demo
 Experience Custy in action: https://custy-one.vercel.app/
 
-Concept Video : 
 
-https://github.com/user-attachments/assets/09063d97-8ea4-4cab-8c0b-db2607afde66
 
 Welcome Page
 The landing page welcomes users with a clean, modern interface that immediately showcases the app's purpose and value proposition.
